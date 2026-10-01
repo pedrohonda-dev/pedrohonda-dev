@@ -14,8 +14,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou
 constantemente buscando aprender novas tecnologias através de
 projetos práticos.
 
-Atualmente estou desenvolvendo meus conhecimentos em programação,
-desenvolvimento de sistemas e análise de dados.
+Atualmente, venho aprimorando meus conhecimentos 
+em desenvolvimento de sistemas e análise de dados
 
 Meu objetivo é transformar o conhecimento adquirido na faculdade
 em projetos reais e construir minha carreira na área de tecnologia.
